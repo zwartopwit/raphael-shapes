@@ -2,9 +2,9 @@
 
 ### What is it?
 An extension to the Raphael Vector Library.<br/>
-Currently it provides the following shapes:
-- polygon (throw in raw SVG polygon string)
-- n-gon
+Currently it provides the following shapes:<br/>
+- polygon (throw in raw SVG polygon string)<br/>
+- n-gon<br/>
 - star
 
 ### Usage
