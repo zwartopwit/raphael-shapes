@@ -16,13 +16,13 @@ Basic usage:
 
 Add a hexagon
 
-    // Creates a n-gon with radius 100 and 6 sides at 50, 60
+    // Creates an n-gon with radius 100 and 6 sides at 50, 60
     var ngon = paper.ngon(50, 60, 100, 6)
 
-Update a n-gon
+Update an n-gon
 
     // Updates the n-gon to have 5 edges
-    ngon.attr("path", paper.ngon_path(100, g))
+    ngon.attr("path", paper.ngon_path(100, 5))
 
 Add a star
 
