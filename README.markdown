@@ -1,4 +1,4 @@
-# Raphaël Shapes plugin - 0.0.1
+# Raphaël Shapes plugin - 0.0.2
 
 ### What is it?
 An extension to the Raphael Vector Library.<br/>
@@ -49,9 +49,12 @@ Update a star
     // Updates the star to have 11 points, inner radius 40 and outer radius 120
     star.sett({ points: 11, r1: 40, r2: 120 });
 
-Get the shape type of an existing element
+Retrieve the settings of a shape
     
     var type = star.setts.type;
+    var points = star.setts.points;
+    var radius = star.setts.r;
+    ...
 
 ### Dependencies
 - [Raphael JS](http://raphaeljs.com/)
