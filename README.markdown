@@ -1,4 +1,7 @@
-# Raphaël Shapes plugin - 0.0.2
+# Important!
+I switched from raphael to [svg.js](http://svgjs.com/) for all my vector graphics because [svg.js](http://svgjs.com/) is only a fraction of raphael's size and supports much more core SVG features. Therefore this plugin is no longer supported. Similar functionality can be found in the the [svg.shapes.js](https://github.com/wout/svg.shapes.js) plugin for [svg.js](http://svgjs.com/).
+
+## Raphaël Shapes plugin - 0.0.2
 
 ### What is it?
 An extension to the Raphael Vector Library.<br/>
